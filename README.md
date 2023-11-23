@@ -5,6 +5,6 @@
 - Display Tasks
 -  Save Tasks to File
 - Edit Task
- - - Delete Task
+- Delete Task
   
    
